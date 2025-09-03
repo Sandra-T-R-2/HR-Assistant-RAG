@@ -1,0 +1,132 @@
+{
+"employees": [
+{
+"id": 1,
+"name": "Alice Johnson",
+"skills": ["Python", "React", "AWS", "SQL"],
+"experience_years": 5,
+"projects": ["E-commerce Platform", "Healthcare Dashboard"],
+"availability": "available"
+},
+{
+"id": 2,
+"name": "Bob Williams",
+"skills": ["Java", "Spring Boot", "Docker", "Kubernetes"],
+"experience_years": 8,
+"projects": ["Banking API Gateway", "Microservices Migration"],
+"availability": "on project until Dec 2025"
+},
+{
+"id": 3,
+"name": "Dr. Sarah Chen",
+"skills": ["Python", "Machine Learning", "TensorFlow", "PyTorch", "Pandas"],
+"experience_years": 6,
+"projects": ["Medical Diagnosis Platform", "Fraud Detection System"],
+"availability": "available"
+},
+{
+"id": 4,
+"name": "David Lee",
+"skills": ["React Native", "JavaScript", "TypeScript", "Firebase"],
+"experience_years": 4,
+"projects": ["Mobile Fitness App", "Real-time Chat Application"],
+"availability": "available"
+},
+{
+"id": 5,
+"name": "Emily Rodriguez",
+"skills": ["AWS", "Terraform", "Ansible", "CI/CD", "Python"],
+"experience_years": 7,
+"projects": ["Cloud Infrastructure Automation", "Security Compliance Pipeline"],
+"availability": "available"
+},
+{
+"id": 6,
+"name": "Frank Miller",
+"skills": ["Go", "gRPC", "PostgreSQL", "System Design"],
+"experience_years": 10,
+"projects": ["High-Frequency Trading System", "Distributed Ledger Tech"],
+"availability": "on project until Jan 2026"
+},
+{
+"id": 7,
+"name": "Grace Davis",
+"skills": ["JavaScript", "Vue.js", "Nuxt.js", "Node.js"],
+"experience_years": 3,
+"projects": ["Marketing Analytics Dashboard", "Static Site Generator"],
+"availability": "available"
+},
+{
+"id": 8,
+"name": "Henry Wilson",
+"skills": ["Python", "Django", "PostgreSQL", "Celery", "Redis"],
+"experience_years": 6,
+"projects": ["Subscription Management Service", "Content Management System"],
+"availability": "available"
+},
+{
+"id": 9,
+"name": "Ivy Garcia",
+"skills": ["C#", ".NET", "Azure", "SQL Server"],
+"experience_years": 9,
+"projects": ["Enterprise Resource Planning (ERP)", "Legacy System Modernization"],
+"availability": "on project until Nov 2025"
+},
+{
+"id": 10,
+"name": "Jack Martinez",
+"skills": ["React", "Redux", "GraphQL", "Node.js", "Docker"],
+"experience_years": 5,
+"projects": ["Social Media Analytics Platform", "Interactive Data Visualization"],
+"availability": "available"
+},
+{
+"id": 11,
+"name": "Karen Thompson",
+"skills": ["Data Engineering", "Apache Spark", "Hadoop", "Airflow", "Python"],
+"experience_years": 8,
+"projects": ["Big Data Warehouse", "ETL Pipeline Optimization"],
+"availability": "available"
+},
+{
+"id": 12,
+"name": "Leo Anderson",
+"skills": ["Swift", "iOS Development", "UIKit", "CoreData"],
+"experience_years": 4,
+"projects": ["Ride-Sharing iOS App", "Mobile Banking Application"],
+"availability": "available"
+},
+{
+"id": 13,
+"name": "Mia Clark",
+"skills": ["UX/UI Design", "Figma", "Sketch", "User Research"],
+"experience_years": 6,
+"projects": ["Website Redesign for Retail", "Mobile App Prototyping"],
+"availability": "available"
+},
+{
+"id": 14,
+"name": "Noah Scott",
+"skills": ["Cybersecurity", "Penetration Testing", "Metasploit", "Wireshark"],
+"experience_years": 7,
+"projects": ["Network Security Audit", "Incident Response Simulation"],
+"availability": "on project until Feb 2026"
+},
+{
+"id": 15,
+"name": "Olivia White",
+"skills": ["Project Management", "Agile", "Scrum", "JIRA"],
+"experience_years": 12,
+"projects": ["Led Digital Transformation Initiative", "Managed Cross-functional Teams"],
+"availability": "available"
+},
+{
+"id": 16,
+"name": "Peter Hall",
+"skills": ["Python", "AWS", "Docker", "Machine Learning"],
+"experience_years": 4,
+"projects": ["Log Anomaly Detection", "Cloud Deployment Automation"],
+"availability": "available"
+}
+]
+}
